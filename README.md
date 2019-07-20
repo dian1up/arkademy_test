@@ -7,7 +7,7 @@ disini json berperan sebagai format penulisan data, sehingga dapat memudahkan pe
 
 Berikut ini adalah tampilan dari tugas no 7:
 Hasil dari query dgn sql:
-[alt text](https://github.com/dian1up/arkademy_test/blob/master/arkademy/images/select.png)
+![alt text](https://github.com/dian1up/arkademy_test/blob/master/arkademy/images/select.png)
 
 SELECT name.id AS id,name.name AS name,work.name AS work,category.salary AS salary FROM name,work,category WHERE        name.id_work=work.id_salary AND name.id_salary=category.id
 
