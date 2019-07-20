@@ -14,7 +14,7 @@ SELECT name.id AS id,name.name AS name,work.name AS work,category.salary AS sala
 
 1.tampilan dari index website, yang berfungsi menampilkan data dari database:
 
-![alt text]https://github.com/dian1up/arkademy_test/blob/master/arkademy/images/sql.PNG)
+![alt text](https://github.com/dian1up/arkademy_test/blob/master/arkademy/images/sql.PNG)
 
 2.tampilan dari penambahan user:
 
